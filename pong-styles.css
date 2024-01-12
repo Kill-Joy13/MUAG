@@ -5,13 +5,13 @@ Feel free to play with things like color or font
 
 html,
 body {
-  padding: 5;
-  margin: 15;
+  padding: 0;
+  margin: 0;
 }
 #game {
 
   margin: 4px;
-  border: 0px #ffffff;
+  border: 5px solid white;
   left: 0;
   position: absolute;
   background-image: url("pongpink.png");
