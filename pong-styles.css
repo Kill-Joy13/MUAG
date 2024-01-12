@@ -5,12 +5,11 @@ Feel free to play with things like color or font
 
 html,
 body {
-  padding: 0;
-  margin: 0;
+  padding: 5;
+  margin: 15;
 }
 #game {
 
-    <center>
   margin: 4px;
   border: 0px #ffffff;
   left: 0;
