@@ -27,6 +27,7 @@ body {
 #right-paddle {
   background-color: #6faabf;
   right: 10px;
+  height: 25px;
 }
 
 #instructions {
